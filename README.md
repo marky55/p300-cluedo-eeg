@@ -114,7 +114,4 @@ Each electrode votes for its top peak → majority vote selects the item.
 
 
 
-The output contains:
-
-
 
